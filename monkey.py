@@ -43,4 +43,4 @@ while pos<=num:
             break
 
 
-print("We need to start after ",max_pos," monkey")
+print("We need to start after ",max_pos," monkey and opt out after defeating ",maximum)
